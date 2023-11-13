@@ -1,10 +1,8 @@
 ---
-{"dg-publish":true,"permalink":"/001-moc/vault/","tags":["moc","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/001-moc/vault/","tags":["moc","gardenEntry"]}
 ---
 
-# Jacob's Stuff  
-
-## Recipes
+# Recipes 
 - [[100 Watch List/Recipes/Ackee and Saltfish\|Ackee and Saltfish]]
 - [[100 Watch List/Recipes/Beef Patties\|Beef Patties]]
 - [[100 Watch List/Recipes/Codfish Balls\|Codfish Balls]]
