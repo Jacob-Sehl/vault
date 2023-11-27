@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/001-moc/vault/","tags":["moc","gardenEntry","gardenEntry"]}
+{"dg-publish":true,"permalink":"/001-moc/vault/","tags":["moc","gardenEntry","gardenEntry","gardenEntry"]}
 ---
 
 # Recipes 
